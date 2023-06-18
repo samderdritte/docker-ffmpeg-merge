@@ -14,7 +14,7 @@ docker run \
     -e OUTPUT_FILE_NAME='output.mp4' \
     -e S3_BUCKET_NAME='s3-bucket-name' \
     -e S3_PREFIX='directory/subdirectory/' \
-    -e AWS_REGION='europe-central-1' \
+    -e AWS_REGION='eu-central-1' \
     -e AWS_ACCESS_KEY_ID='XXXXXXXXXXXX' \
     -e AWS_SECRET_ACCESS_KEY='XXXXXXXXXXXX' \
     -e AWS_SESSION_TOKEN='XXXXXXXXXXXX' \
